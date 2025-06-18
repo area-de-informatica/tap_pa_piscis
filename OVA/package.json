@@ -1,0 +1,36 @@
+{
+  "name": "mi-proyecto-nuxt",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "lint": "eslint . --ext .js,.ts,.vue"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "@pinia/nuxt": "^0.11.1",
+    "@vueuse/head": "^2.0.0",
+    "@vueuse/nuxt": "^13.3.0",
+    "h3": "latest",
+    "lucide-vue-next": "^0.515.0",
+    "nuxt": "^3.17.5",
+    "pinia": "latest",
+    "tailwindcss-animate": "^1.0.7",
+    "vite-plugin-vuetify": "latest",
+    "vue": "latest",
+    "vuetify": "latest",
+    "webpack-plugin-vuetify": "latest",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "eslint": "^8.56.0",
+    "eslint-plugin-vue": "^9.18.1",
+    "postcss": "^8.5.6",
+    "sass-embedded": "^1.89.2",
+    "tailwindcss": "^4.1.10",
+    "typescript": "^5.4.5"
+  }
+}
